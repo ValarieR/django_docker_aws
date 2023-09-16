@@ -1,1 +1,1 @@
-# django-docker-aws
+# django-docker-aws for Nucamp Week2
